@@ -3,15 +3,17 @@
 Recipes for deploying Spring + Tanzu products to an empty Kubernetes cluster. 
 We provide recpies to deploy the componets below:
 
-* Wavefront proxy
-* Tanzu Build Service
-* Tanzu Postgres operator
-* Tanzu RabbitMQ operator
-* Tanzu GemFire operator
-* Spring Cloud Config
-* Spring Cloud Gateway
-* Spring Cloud Dataflow
-* Spring Boot Admin
+* Wavefront proxy for Tanzu Observability
+* Tanzu Build Service + Premium Buildpacks
+* Tanzu Postgres Operator
+* Tanzu RabbitMQ Operator
+* Tanzu GemFire Operator
+* Spring Cloud Services for Kubernetes
+* Spring Cloud Gateway for Kubernetes
+* Spring Cloud Dataflow for Kubernetes
+* Spring Boot Operator
+* VMware Spring Runtime Support
 
-The main idea is to provide guidance for an application deveolpment team writing
+
+The main idea is to provide guidance for an application development team writing
 apps in Spring and deploying them to Kubernetes.
