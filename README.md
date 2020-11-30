@@ -1,4 +1,4 @@
-# spring-k8s-recpies
+# spring-k8s-recipes
 
 Recipes for deploying Spring + Tanzu products to an empty Kubernetes cluster. 
 We provide recpies to deploy the componets below:
