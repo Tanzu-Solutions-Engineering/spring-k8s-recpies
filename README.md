@@ -1,7 +1,7 @@
 # spring-k8s-recipes
 
 Recipes for deploying Spring + Tanzu products to an empty Kubernetes cluster. 
-We provide recpies to deploy the componets below:
+We provide recipes to deploy the componets below:
 
 * Wavefront proxy for Tanzu Observability
 * Tanzu Build Service + Premium Buildpacks
